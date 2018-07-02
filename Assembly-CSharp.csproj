@@ -80,6 +80,8 @@
     <Compile Include="Assets\Game Jam Template\Scripts\special features\DropDown.cs" />
     <Compile Include="Assets\Game Jam Template\Scripts\special features\LocalizationHelper.cs" />
     <Compile Include="Assets\Game Jam Template\Scripts\special features\TestingScript.cs" />
+    <Compile Include="Assets\Game Jam Template\Scripts\special features\TextSizeSlider.cs" />
+    <Compile Include="Assets\Game Jam Template\Scripts\special features\TextSizeTest.cs" />
     <None Include="Assets\Game Jam Template\Fonts\OpenSans\License!.txt" />
     <None Include="Assets\Shaders\BrightnessEffect.shader" />
     <None Include="Assets\Shaders\Rim Lit Dissolve.shader" />
